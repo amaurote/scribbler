@@ -28,6 +28,7 @@ public class Scribbler {
         init();
     }
 
+    // test method
     public static void main(String[] args) throws IOException {
         Scribbler scribbler = new Scribbler();
         scribbler.setDoubleSurnameRate(20);
